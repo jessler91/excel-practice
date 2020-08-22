@@ -1,0 +1,24 @@
+{
+  "name": "excel-practice",
+  "version": "1.0.0",
+  "description": "learning excel dev tools",
+  "main": "excel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessler91/excel-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessler91/excel-practice/issues"
+  },
+  "homepage": "https://github.com/jessler91/excel-practice#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "exceljs": "^4.1.1"
+  }
+}
