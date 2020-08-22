@@ -1,4 +1,4 @@
-const ExcelJS = require('exceljs');
+const Excel = require('exceljs');
 
 
 const workbook = new Excel.Workbook();
